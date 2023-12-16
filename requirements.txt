@@ -1,0 +1,6 @@
+aiogram==2.25.1
+uvloop==0.17.0
+ujson==5.8.0
+aiodns==3.0.0
+SQLAlchemy==2.0.19
+python-dotenv==1.0.0
